@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.1392992550972849
 name: I Rock Pizza
+navigation:
+  - name: I Rock Pizza Menu-site
+    url: 'http://www.irockpizza.ca/'
+    type: external
 title: Fresh Family style Pizza
 description: From our family to yours!
