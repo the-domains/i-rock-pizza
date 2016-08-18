@@ -11,6 +11,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.1392992550972849
+logo: null
 name: I Rock Pizza
 navigation:
   - name: I Rock Pizza Menu-site
@@ -19,5 +20,7 @@ navigation:
   - name: Online Menu
     url: 'http://www.muchmenus.com/I-Rock-Pizza-Menu.htm'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fa75dc0-7bc5-4d07-a699-65c889e502d7.png
 title: Fresh Family style Pizza
 description: From our family to yours!
