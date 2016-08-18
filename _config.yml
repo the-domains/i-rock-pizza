@@ -1,4 +1,3 @@
-layout_spectrum: 0.1392992550972849
 typography_spectrum: 0.7899659352842718
 color:
   brandStrength: 0.06703825504519045
@@ -6,9 +5,11 @@ color:
   saturation: 0.9869161895476282
   rhythmicContrast: 0.1710680415853858
   brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.1392992550972849
 name: I Rock Pizza
+title: Fresh Family style Pizza
