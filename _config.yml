@@ -16,5 +16,8 @@ navigation:
   - name: I Rock Pizza Menu-site
     url: 'http://www.irockpizza.ca/'
     type: external
+  - name: Online Menu
+    url: 'http://www.muchmenus.com/I-Rock-Pizza-Menu.htm'
+    type: external
 title: Fresh Family style Pizza
 description: From our family to yours!
